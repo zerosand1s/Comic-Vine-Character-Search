@@ -1,0 +1,2 @@
+In command prompt, go to the path where 'project2' file is located and enter the command 'node server.js' which shows a message 'server is running...'
+After that open the browser and type 'http://localhost:8080/'
